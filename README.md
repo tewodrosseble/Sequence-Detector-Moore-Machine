@@ -1,4 +1,4 @@
-# Sequence-Detector-Moore-Machine
+# Sequence-Detector-Moore-Machine-using-Quartus-prime-and-Cyclone
 
 This is a VHDL project using quartus prime to detect a 10 input sequence using Moore Finite state machine. 
 This finite state machine has three states based on the input values. 
@@ -20,6 +20,21 @@ A Moore machine operates by transitioning between different states based on inpu
 <br/><br/>
 ### The following image shows the Technology map view of the Moore Sequence detector machine
 <img src="fsm.png" alt="moore" />
+
+## The following images show the implementation of the project on Cyclone V FPGA board
+
+<br/>
+<img src="sequence1.jpg" alt=''/>
+<br/>
+<img src="sequence2.jpg" alt=''/>
+<br/>
+<img src="sequence3.jpg" alt=''/>
+</br>
+<img src="sequence4.jpg" alt=''/>
+</br>
+<img src="sequence5.jpg" alt=''/>
+<br/>
+
 
 Tewodros Seble
 All Rights Reserverd
