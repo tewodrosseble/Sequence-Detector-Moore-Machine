@@ -26,13 +26,13 @@ A Moore machine operates by transitioning between different states based on inpu
 <br/>
 <img src="sequence1.jpg" alt='' style="height:60vh"/>
 <br/>
-<img src="sequence2.jpg" alt='' height='60%'/>
+<img src="sequence2.jpg" alt='' style="height:60vh"/>
 <br/>
-<img src="sequence3.jpg" alt='' height='60%'/>
+<img src="sequence3.jpg" alt='' style="height:60vh"/>
 </br>
-<img src="sequence4.jpg" alt='' height='60%'/>
+<img src="sequence4.jpg" alt='' style="height:60vh"/>
 </br>
-<img src="sequence5.jpg" alt='' height='60%'/>
+<img src="sequence5.jpg" alt='' style="height:60vh"/>
 <br/>
 
 
