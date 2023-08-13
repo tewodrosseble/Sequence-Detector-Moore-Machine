@@ -1,0 +1,9 @@
+|sequencedetector
+input => state.s1.DATAIN
+input => state.DATAB
+input => Selector0.IN1
+reset => state~3.DATAIN
+clock => state~1.DATAIN
+output <= output.DB_MAX_OUTPUT_PORT_TYPE
+
+
