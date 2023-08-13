@@ -24,15 +24,15 @@ A Moore machine operates by transitioning between different states based on inpu
 ## The following images show the implementation of the project on Cyclone V FPGA board
 
 <br/>
-<img src="sequence1.jpg" alt=''/>
+<img src="sequence1.jpg" alt='' height='60vh'/>
 <br/>
-<img src="sequence2.jpg" alt=''/>
+<img src="sequence2.jpg" alt='' height='60vh'/>
 <br/>
-<img src="sequence3.jpg" alt=''/>
+<img src="sequence3.jpg" alt='' height='60vh'/>
 </br>
-<img src="sequence4.jpg" alt=''/>
+<img src="sequence4.jpg" alt='' height='60vh'/>
 </br>
-<img src="sequence5.jpg" alt=''/>
+<img src="sequence5.jpg" alt='' height='60vh'/>
 <br/>
 
 
