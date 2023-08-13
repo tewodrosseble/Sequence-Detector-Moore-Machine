@@ -24,7 +24,7 @@ A Moore machine operates by transitioning between different states based on inpu
 ## The following images show the implementation of the project on Cyclone V FPGA board
 
 <br/>
-<img src="sequence1.jpg" alt='' height='60%' width='100%'/>
+<img src="sequence1.jpg" alt='' style="height:60vh"/>
 <br/>
 <img src="sequence2.jpg" alt='' height='60%'/>
 <br/>
